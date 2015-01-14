@@ -1,2 +1,4 @@
 Paludo eh feio
 Paludo eh feioso
+
+O Git eh uma merda
