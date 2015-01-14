@@ -1,6 +1,6 @@
-Paludo eh feio
+Mudei a primeira linha do codigo do capeta do demo 666
 Paludo eh feioso
 
-O Git eh uma merda
+Mas mesmo assim o paludo continua sendo feio e o Git uma merda
 
 eu odeio o git
